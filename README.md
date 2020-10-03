@@ -43,5 +43,5 @@ Add your name here, and learn how to edit in README. <br />
 31-Jayant Namrani <br/>
 32-Daalb <br/>
 33-Mehul Aswar<br/>
-34-Jignesh<br />
+34-Jigneshh<br />
 
